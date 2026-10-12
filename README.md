@@ -1,4 +1,4 @@
-# Hi there, I'm Atul Kumar Yadav 👋
+here, I'm Atul Kumar Yadav 👋
 **Mechanical Engineer | Transitioning into Data Science & Machine Learning**
 
 - 🛠️ **Current Focus:** Building Predictive Maintenance Pipelines & Industrial Machine Learning Models.
